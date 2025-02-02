@@ -1,0 +1,5 @@
+# Fichier de dépendances pour l'application Python
+
+# Flask est un micro-framework web pour Python.
+# Il permet de créer des applications web rapidement et facilement.
+Flask==3.1.0  # Version spécifique de Flask à utiliser
